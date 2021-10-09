@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Solar System</string>
+    <string name="title_planet_detail">Planet Detail</string>
+    <string name="num_known_moons">%d Known Moon(s)</string>
+    <string name="orbital_period_years">%.3f Orbital Period (years)</string>
+	<string name="planet_detail">Planet Detail</string>
+</resources>
